@@ -1,0 +1,10 @@
+{
+  "appName": "Desktop-Demo",
+  "version": "1.0.4",
+  "gatekeeperVerified": true,
+  "timestamp": "2026-11-24T20:01:52.408Z",
+  "settings": {
+    "enableTelemetry": true,
+    "securityScan": "active"
+  }
+}
